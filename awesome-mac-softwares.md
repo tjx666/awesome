@@ -12,4 +12,3 @@
 12. [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
 
 以上为我作为一个前端工作上常用的软件
-

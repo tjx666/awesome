@@ -12,24 +12,25 @@
 12. [loc](https://github.com/cgag/loc)    count lines of code，统计代码，注释的行数
 13. [icdiff](https://github.com/jeffkaufman/icdiff)    替代默认的 diff，有色彩高亮
 14. [ranger](https://github.com/ranger/ranger)    vim 操作方式的终端文件预览
-15. [goolgler](https://github.com/jarun/googler)    命令行使用 google 搜索
-16. [shellcheck](https://github.com/koalaman/shellcheck)    检查 shell 脚本语法
-17. [rg](https://github.com/BurntSushi/ripgrep)    递归搜索一个文件夹中的内容
-18. [tig](https://github.com/jonas/tig)    ncurses-based 的 git 客户端
-19. [mycli](https://github.com/dbcli/mycli)    带自动补全和高亮的  mysql client
-20. [fpp](https://github.com/facebook/PathPicker)    识别输入中的路径并可以直接将选中的文件在编辑器中打开
-21. [neofetch](https://github.com/dylanaraps/neofetch)    显示系统信息
-22. [nmap](https://github.com/nmap/nmap)    端口扫描
-23. [bwm-ng](https://github.com/vgropp/bwm-ng)    网络带宽监视器
-24. [speedtest-cli](https://github.com/sivel/speedtest-cli)    测试下载，上传速度
-25. pgrep/pkill    根据进程名称查找 pid / 杀死进程
-26. [progress](https://github.com/Xfennec/progress)    以进度条形式显示各种命令如：cp, mv 等的进度
-27. [lolcat](https://github.com/busyloop/lolcat)    将输入添加彩虹般的着色
-28. [figlet](http://www.figlet.org/)    将输入的文字转换为艺术字
-29. [bro](http://bropages.org/)    用例为主的命令行帮助工具
-30. [tldr](https://github.com/tldr-pages/tldr)   和 bro 不多, 不过 bro 还可以投票
-31. [gitsome](https://github.com/donnemartin/gitsome)    github cli
-32. [fuck](https://github.com/nvbn/thefuck)    命令纠错，其实没啥乱用
+15. [asciinema](https://asciinema.org/)    录制终端
+16. [goolgler](https://github.com/jarun/googler)    命令行使用 google 搜索
+17. [shellcheck](https://github.com/koalaman/shellcheck)    检查 shell 脚本语法
+18. [rg](https://github.com/BurntSushi/ripgrep)    递归搜索一个文件夹中的内容
+19. [tig](https://github.com/jonas/tig)    ncurses-based 的 git 客户端
+20. [mycli](https://github.com/dbcli/mycli)    带自动补全和高亮的  mysql client
+21. [fpp](https://github.com/facebook/PathPicker)    识别输入中的路径并可以直接将选中的文件在编辑器中打开
+22. [neofetch](https://github.com/dylanaraps/neofetch)    显示系统信息
+23. [nmap](https://github.com/nmap/nmap)    端口扫描
+24. [bwm-ng](https://github.com/vgropp/bwm-ng)    网络带宽监视器
+25. [speedtest-cli](https://github.com/sivel/speedtest-cli)    测试下载，上传速度
+26. pgrep/pkill    根据进程名称查找 pid / 杀死进程
+27. [progress](https://github.com/Xfennec/progress)    以进度条形式显示各种命令如：cp, mv 等的进度
+28. [lolcat](https://github.com/busyloop/lolcat)    将输入添加彩虹般的着色
+29. [figlet](http://www.figlet.org/)    将输入的文字转换为艺术字
+30. [bro](http://bropages.org/)    用例为主的命令行帮助工具
+31. [tldr](https://github.com/tldr-pages/tldr)   和 bro 不多, 不过 bro 还可以投票
+32. [gitsome](https://github.com/donnemartin/gitsome)    github cli
+33. [fuck](https://github.com/nvbn/thefuck)    命令纠错，其实没啥乱用
 
 推荐阅读:
 
